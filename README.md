@@ -1,7 +1,7 @@
 # Croco-N
 
 
-Instruction
+<b>Instruction</b>
 Download all the files and put them in the same folder and organise path.
 
 Run cn002_04 for Figure 3
